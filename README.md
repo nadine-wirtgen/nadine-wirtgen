@@ -1,8 +1,6 @@
 <h1 align="center">HELLO WORLD, MY NAME IS NADINE!</h1>
 
 <br>
-<hr>
-<br>
 
 <p align="center">🌱 I'm just starting my journey into programming</p>
 
