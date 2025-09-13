@@ -9,9 +9,8 @@
   <img height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3J2dWg3enljdTZhZWJkeDFuMmRmMW9jNWtjdmEwZGk1b202enhlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3WW4Zm1F2MeoU/giphy.gif"  />
 </div>
 
-
-<div align="left" justify="center">
-  🚀 Right now I'm experimenting with:
+🚀 Right now I'm experimenting with:
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
