@@ -1,16 +1,17 @@
-# HELLO WORLD, MY NAME IS NADINE!
-🌱 I'm just starting my journey into programming
-<div align="right">
-    <a href="[dhjjhhdd](https://discord.com/users/439370953558982661)" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </div>
-      
+<h1 align="center">HELLO WORLD, MY NAME IS NADINE!</h1>
+
+<p align="center">🌱 I'm just starting my journey into programming</p>
+
 <div align="center">
   <img height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3J2dWg3enljdTZhZWJkeDFuMmRmMW9jNWtjdmEwZGk1b202enhlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3WW4Zm1F2MeoU/giphy.gif"  />
 </div>
 
+
+      
+
+
 🚀 Right now I'm experimenting with:
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
@@ -26,6 +27,10 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nadine-wirtgen/nadine-wirtgen/output/pacman-contribution-graph.svg">
 </picture>
 
+<div align="left">
+    <a href="[dhjjhhdd](https://discord.com/users/439370953558982661)" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+</div>
 
 
 
