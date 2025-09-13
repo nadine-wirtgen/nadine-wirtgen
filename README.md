@@ -2,7 +2,7 @@
 
 <br>
 
-<p align="center" height="20">🌱 I'm just starting my journey into programming</p>
+<p align="center">🌱 I'm just starting my journey into programming</p>
 
 <div align="center">
   <img height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3J2dWg3enljdTZhZWJkeDFuMmRmMW9jNWtjdmEwZGk1b202enhlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3WW4Zm1F2MeoU/giphy.gif"  />
