@@ -1,5 +1,8 @@
 <h1 align="center">HELLO WORLD, MY NAME IS NADINE!</h1>
 
+<br>
+___
+<br>
 
 <p align="center">🌱 I'm just starting my journey into programming</p>
 
@@ -7,6 +10,9 @@
   <img height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3J2dWg3enljdTZhZWJkeDFuMmRmMW9jNWtjdmEwZGk1b202enhlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3WW4Zm1F2MeoU/giphy.gif"  />
 </div>
 
+<br>
+***
+<br>
 
 <p align="center">🚀 Right now I'm experimenting with:</p>
 
@@ -17,7 +23,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
-  
+
+<br>
+---
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nadine-wirtgen/nadine-wirtgen/output/pacman-contribution-graph-dark.svg">
