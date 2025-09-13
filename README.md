@@ -10,7 +10,7 @@
 </div>
 
 
-<div align="left">
+<div align="left" justify="center">
   🚀 Right now I'm experimenting with:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
