@@ -1,4 +1,4 @@
-<h1 align="center">HELLO WORLD, MY NAME IS NADINE!</h1>
+<p height="30" align="center">HELLO WORLD, MY NAME IS NADINE!</p>
 
 <br>
 <hr>
