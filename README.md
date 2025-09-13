@@ -1,7 +1,7 @@
 <h1 align="center">HELLO WORLD, MY NAME IS NADINE!</h1>
 
 <br>
-___
+<hr>
 <br>
 
 <p align="center">🌱 I'm just starting my journey into programming</p>
@@ -11,7 +11,7 @@ ___
 </div>
 
 <br>
-***
+<hr>
 <br>
 
 <p align="center">🚀 Right now I'm experimenting with:</p>
@@ -25,7 +25,7 @@ ___
 </div>
 
 <br>
----
+<hr>
 <br>
 
 <picture>
