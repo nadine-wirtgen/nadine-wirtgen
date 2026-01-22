@@ -35,7 +35,7 @@
 
 <div align="center">
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" width="52" height="40" alt="firebase logo" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="52" height="40" alt="firebase logo" />     
   <img width="12" />    
 </div>
 
