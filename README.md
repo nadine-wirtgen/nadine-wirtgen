@@ -65,9 +65,17 @@ const nadine = {
 <br>
 
 
-<h3 align="center" style="color:#0F766E; font-size:22px;">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nadine-wirtgen/nadine-wirtgen/snake-output/snake.svg" alt="Snake animation" width="100%" />
+</p>
+
+
+<br>
+
+
+<h2 align="center" style="color:#0F766E; font-size:26px;">
   🪪 You can find me here:
-</h3>
+</h2>
 
 
 <div align="center">
@@ -84,10 +92,6 @@ const nadine = {
   </a>
 </div>
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nadine-wirtgen/nadine-wirtgen/snake-output/snake.svg" alt="Snake animation" width="100%" />
-</p>
 
 
 
