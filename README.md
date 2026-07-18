@@ -80,7 +80,7 @@ const nadine = {
 
 <div align="center">
   <a href="https://discord.com/users/439370953558982661" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="64" alt="Discord">
+    <img src="https://img.icons8.com/?size=100&id=30998&format=png&color=000000" height="64" alt="Discord">
   </a>
   <img width="30">
   <a href="https://nadine-wirtgen.de/" style="text-decoration: none;">
