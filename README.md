@@ -2,7 +2,17 @@
   Hello World! My name is Nadine!
 </h1>
 
+
 <br>
+
+
+<div align="center">
+  <img height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3J2dWg3enljdTZhZWJkeDFuMmRmMW9jNWtjdmEwZGk1b202enhlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3WW4Zm1F2MeoU/giphy.gif"  />
+</div>
+
+
+<br>
+
 
 ```
 const nadine = {
@@ -15,11 +25,15 @@ const nadine = {
 };
 ```
 
+
 <br>
+
 
 <h2 align="center" style="color:#0F766E; font-size:26px;">
   👾 Technologies I’ve worked with so far:
 </h2>
+
+<br>
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="64" alt="html5 logo"  />
@@ -47,31 +61,29 @@ const nadine = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="64" alt="django logo"  />
 </div>
 
+
 <br>
+
 
 <h3 align="center" style="color:#0F766E; font-size:22px;">
   🪪 You can find me here:
 </h3>
 
+
 <div align="center">
-
-<a href="https://discord.com/users/439370953558982661" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="DEINE_PORTFOLIO_URL">
-  <img src="DEIN_PORTFOLIO_ICON" width="64" height="64" alt="Portfolio">
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:DEINE_EMAIL">
-  <img src="DEIN_EMAIL_ICON" width="64" height="64" alt="Email">
-</a>
-
+  <a href="https://discord.com/users/439370953558982661" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="64" alt="Discord">
+  </a>
+  <img width="30">
+  <a href="https://nadine-wirtgen.de/" style="text-decoration: none;">
+    <img src="https://img.icons8.com/?size=100&id=naDnVpQ3BNkR&format=png&color=ffffff" height="64" alt="Portfolio">
+  </a>
+  <img width="30">
+  <a href="mailto:nadine.wirtgen@gmx.de" style="text-decoration: none;">
+    <img src="https://img.icons8.com/?size=100&id=13826&format=png&color=ffffff" height="64" alt="Email">
+  </a>
 </div>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nadine-wirtgen/nadine-wirtgen/snake-output/snake.svg" alt="Snake animation" width="100%" />
