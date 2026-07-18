@@ -19,6 +19,7 @@ const nadine = {
   mission: "Always curious. Always building. Always learning.",
   focus: "Full Stack Development",
   currentlyWorkingOn: "AI Quiz Generator 🎯",
+  bugs: "feature?",
   nextGoal: "Land my first developer job 💼",
   coffee: true,
   curiosity: Infinity
