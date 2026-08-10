@@ -95,6 +95,9 @@ const nadine = {
 </div>
 
 
+<br>
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/nadine-wirtgen/nadine-wirtgen/snake-output/snake.svg" alt="Snake animation" width="100%" />
 </p>
