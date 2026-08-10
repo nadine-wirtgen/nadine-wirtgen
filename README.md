@@ -71,22 +71,23 @@ const nadine = {
   Want to see more? Check out my portfolio!
 </p>
 
+<div align="center">
+  <a href="https://nadine-wirtgen.de/" style="text-decoration: none;">
+  <img src="https://raw.githubusercontent.com/nadine-wirtgen/GithubAssets/main/portfolio-badge-mint.gif" height="64" alt="Portfolio">
+  </a>
+</div>
 
 <br>
 
 
 <h2 align="center" style="color:#0F766E; font-size:26px;">
-  🪪 You can find me here:
+  🪪 And otherwise you can find me here:
 </h2>
 
 
 <div align="center">
   <a href="https://discord.com/users/439370953558982661" style="text-decoration: none;">
     <img src="https://img.icons8.com/?size=100&id=30998&format=png&color=000000" height="64" alt="Discord">
-  </a>
-  <img width="30">
-  <a href="https://nadine-wirtgen.de/" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/nadine-wirtgen/GithubAssets/main/portfolio-badge-mint.gif" height="64" alt="Portfolio">
   </a>
   <img width="30">
   <a href="mailto:nadine.wirtgen@gmx.de" style="text-decoration: none;">
