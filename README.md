@@ -66,14 +66,6 @@ const nadine = {
 <br>
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nadine-wirtgen/nadine-wirtgen/snake-output/snake.svg" alt="Snake animation" width="100%" />
-</p>
-
-
-<br>
-
-
 <h2 align="center" style="color:#0F766E; font-size:26px;">
   🪪 You can find me here:
 </h2>
@@ -85,7 +77,7 @@ const nadine = {
   </a>
   <img width="30">
   <a href="https://nadine-wirtgen.de/" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/nadine-wirtgen/GithubAssets/main/portfolio-badge-animated.gif" height="64" alt="Portfolio">
+    <img src="https://raw.githubusercontent.com/nadine-wirtgen/GithubAssets/main/portfolio-badge-mint.gif" height="64" alt="Portfolio">
   </a>
   <img width="30">
   <a href="mailto:nadine.wirtgen@gmx.de" style="text-decoration: none;">
@@ -94,10 +86,9 @@ const nadine = {
 </div>
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nadine-wirtgen/nadine-wirtgen/snake-output/snake.svg" alt="Snake animation" width="100%" />
+</p>
 
 
-
-
-
-
-
+<br>
