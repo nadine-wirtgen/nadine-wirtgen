@@ -62,8 +62,15 @@ const nadine = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="64" alt="django logo"  />
 </div>
 
-<p align="center" style="color:#0F766E; font-size:20px;">These are just some of the technologies I’ve worked with.</p>
-<p align="center" style="color:#0F766E; font-size:20px;">Want to see more? Check out my portfolio!</p>
+
+<br>
+
+
+<p align="center" style="color:#0F766E; font-size:20px;">
+  These are just some of the technologies I’ve worked with.<br>
+  Want to see more? Check out my portfolio!
+</p>
+
 
 <br>
 
