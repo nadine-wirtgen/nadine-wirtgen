@@ -85,7 +85,7 @@ const nadine = {
   </a>
   <img width="30">
   <a href="https://nadine-wirtgen.de/" style="text-decoration: none;">
-    <img src="https://img.icons8.com/?size=100&id=naDnVpQ3BNkR&format=png&color=ffffff" height="64" alt="Portfolio">
+    <img src="https://raw.githubusercontent.com/nadine-wirtgen/GithubAssets/main/portfolio-badge-animated.gif" height="64" alt="Portfolio">
   </a>
   <img width="30">
   <a href="mailto:nadine.wirtgen@gmx.de" style="text-decoration: none;">
